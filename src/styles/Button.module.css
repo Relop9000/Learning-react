@@ -1,0 +1,23 @@
+.subscribe {
+  margin-top: 15px;
+  color: #ffffff;
+  background-color: #ff6a6f;
+  height: 50px;
+  width: 350px;
+  border: none;
+  border-radius: 10px;
+}
+.subscribe:hover {
+  color: #ff6a6f;
+  background: #ffffff;
+}
+.input {
+  height: 50px;
+  width: 250px;
+  background: #ffffff;
+  border-radius: 10px;
+  border: none;
+}
+.input::placeholder {
+  color: #bbc8cc;
+}

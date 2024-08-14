@@ -1,0 +1,22 @@
+.section {
+  color: #101010;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 500px;
+  background: #b7e7f6;
+  border-radius: 15px;
+}
+.sub {
+  font-size: 50px;
+  font-weight: 700;
+}
+.sign {
+  font-size: 25px;
+  font-weight: 700;
+}
+.container {
+  margin-top: 70px;
+  display: flex;
+  gap: 15px;
+}
